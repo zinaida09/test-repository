@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "cd9fa523-a61d-4f75-b0ca-f318148c3fc1",
+		"name": "test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "DET",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "dfdfg",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "zdfsdfg"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
